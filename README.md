@@ -29,20 +29,20 @@
 
 <img src="https://sites.unicentro.br/wp/petfisica/files/2017/09/Imagem-02.jpg" width=300 align=right />
 
-### **Quem sou eu**:
+### **Quem sou eu**
+🧤<a href="https://goleiro.app/banes"> Goleiro em progresso </a> 
+<br>💻Engenheiro de Dados
+<br>🎓Estudante em Ciência e Tech
 
+---
+
+### **Onde me encontrar**:
 <a href="https://www.linkedin.com/in/felipebanes">
 <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
 </a>
 
----
-
-### **Atualmente**:
-
----
-
 <center>
-<table>
+<table border=0>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banesfeh&hide=html&layout=compact&theme=radical" /></td>
         <td><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=banesfeh&theme=radical"/></td>
@@ -50,8 +50,6 @@
 </table>
 </center>
 
----
-
-
+****
 ![](https://komarev.com/ghpvc/?username=banesfeh&color=blue&style=flat)
 ****
