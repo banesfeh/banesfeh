@@ -38,15 +38,18 @@
 
 ### **Onde me encontrar**:
 <a href="https://www.linkedin.com/in/felipebanes">
-<img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
-</a>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a> 
 
+<a href="https://t.me/banesfe">
+<img width="30px" src="https://devicons.railway.app/i/telegram.svg" />
+</a>
 <center>
 <table border=0>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banesfeh&hide=html&layout=compact&theme=radical&hide_border=true" /></td>
         <td><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=banesfeh&theme=radical&hide_border=true"/></td>
-        <td><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=banesfeh&repo=probabilidade_cassino&theme=shades-of-purple&hide_border=true"/></td>
+        <td><img width="400px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=banesfeh&repo=probabilidade_cassino&theme=shades-of-purple&hide_border=true"/></td>
     </tr>   
 </table>
 </center>
