@@ -47,10 +47,11 @@
 <center>
 <table border=0>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banesfeh&hide=html&layout=compact&theme=radical&hide_border=true" /></td>
-        <td><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=banesfeh&theme=radical&hide_border=true"/></td>
-        <td><img width="400px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=banesfeh&repo=probabilidade_cassino&theme=shades-of-purple&hide_border=true"/></td>
-    </tr>   
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banesfeh&layout=compact&theme=radical&hide_border=true" /></td>
+      <td><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=banesfeh&theme=radical&hide_border=true"/></td>
+		<tr>
+			 <td><img width="400px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=banesfeh&repo=Utilitarios&theme=shades-of-purple&hide_border=true"/></td>
+			 <td><img width="400px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=banesfeh&repo=MonteCarloCassino&theme=shades-of-purple&hide_border=true"/></td>
 </table>
 </center>
 
