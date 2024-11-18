@@ -1,60 +1,46 @@
 # **Não há nada por aqui. Somente pistas falsas!**
 
+<table>
 
-<table align="center">
-  <th>Ferramentas do dia-a-dia</th>
-  <tr>
-    <td align="center">
-      <a href="https://aws.amazon.com/"><img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/></a>
-      <a href="https://www.python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
-      <a href="https://www.terraform.io/"><img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"/></a>
-      <a href="https://hadoop.apache.org/"><img align="left" alt="Hadoop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/hadoop/hadoop-original.svg"/></a>
-      <a href="https://spark.apache.org/"><img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachespark/apachespark-original.svg"/></a>
-      <a href="https://docs.pytest.org/en/8.0.x/"><img align="left" alt="Pytest" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytest/pytest-original.svg"/></a>
-      <a href="https://about.codecov.io//"><img align="left" alt="Codecov" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/codecov/codecov-plain.svg"/></a>
-      <a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg"/></a>
-      <a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>
-      <a href="https://github.com/"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
-      <a href="https://about.gitlab.com/"><img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg"/></a>
-      <a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
-      <a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></a>
-      <a href="https://www.linux.org/"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
-      <a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg"/></a>
-      <a href="https://www.kaggle.com/"><img align="left" alt="Kaggle" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kaggle/kaggle-original.svg"/></a>
-    </td>
-  </tr>
-</table>
-
----
-
-<img src="https://sites.unicentro.br/wp/petfisica/files/2017/09/Imagem-02.jpg" width=300 align=right />
+<img min-width="100px" max-width="250px" width="250px" align="right" src="https://sites.unicentro.br/wp/petfisica/files/2017/09/Imagem-02.jpg" />
 
 ### **Quem sou eu**
 🧤<a href="https://goleiro.app/banes">Goleiro em progresso </a> 
 <br>💻Engenheiro de Dados
-<br>🎓Estudante em Ciência e Tech
+<br>🎓Estudante em Ciência e Tecnologia
 
----
+## Linguagens
 
-### **Onde me encontrar**:
-<a href="https://www.linkedin.com/in/felipebanes">
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a> 
+<a><img min-width="100px" max-width="400px" width="250px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banesfeh&layout=compact&hide_border=true?username=banesfeh&hide_border=true&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" /></a>  
+<a><img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"></a>
+<a><img alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/></a>
+<a><img alt="Spark" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" /></a>
+<a><img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/></a>
+<a><img alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"/></a>
 
-<a href="https://t.me/banesfe">
-<img width="30px" src="https://devicons.railway.app/i/telegram.svg" />
-</a>
-<center>
-<table border=0>
-    <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banesfeh&layout=compact&theme=radical&hide_border=true" /></td>
-      <td><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=banesfeh&theme=radical&hide_border=true"/></td>
-		<tr>
-			 <td><img width="400px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=banesfeh&repo=Utilitarios&theme=shades-of-purple&hide_border=true"/></td>
-			 <td><img width="400px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=banesfeh&repo=MonteCarloCassino&theme=shades-of-purple&hide_border=true"/></td>
+## Ferramentas
+
+<a><img min-width="100px" max-width="400px" width="250px" align="right" src="https://github-readme-stats.vercel.app/api?username=banesfeh&layout=compact&hide_border=true?username=banesfeh&hide_border=true&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" /></a>
+<a><img alt="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></a>
+<a><img alt="Terraform" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" /></a>
+<a><img alt="Insomnia" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg"/></a>
+<a><img alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" /></a>
+<a><img alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/></a>
+
+## Contato
+	
+<a href="https://www.linkedin.com/in/felipebanes"><img  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a> 
+<a href="https://t.me/banesfe"><img  width="30px" style="padding-right:10px;" src="https://devicons.railway.app/telegram.svg" /></a>
+<a href="https://www.kaggle.com/felipebanes"><img  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" /></a>
+
+
+## Projetos
+
+<img width="250px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=banesfeh&repo=MonteCarloCassino&layout=compact&hide_border=true?username=banesfeh&hide_border=true&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/>
+<img width="250px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=banesfeh&repo=Utilitarios&layout=compact&hide_border=true?username=banesfeh&hide_border=true&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/>
+
 </table>
 </center>
 
-****
+
 ![](https://komarev.com/ghpvc/?username=banesfeh&color=blue&style=flat)
-****
